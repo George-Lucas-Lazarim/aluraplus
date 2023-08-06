@@ -137,6 +137,10 @@ body {
     margin-left: 1em;
 }
 
+.lista__link a:hover{
+    color: var(--botão-azul);
+}
+
 .rodape__texto {
     font-size: 14px;
     margin: 1em 0;
